@@ -1,4 +1,4 @@
-# 🎓 Student Management System - JavaFX MVC
+# Student Management System - JavaFX MVC
 
 A simple JavaFX-based **Student Management System** developed using **IntelliJ**, **Scene Builder**, and **FXML** following the **MVC (Model-View-Controller)** design pattern.
 
