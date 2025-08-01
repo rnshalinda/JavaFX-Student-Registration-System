@@ -8,12 +8,10 @@ This application includes:
 - A Summary screen displaying student data in a TableView
   
 
-
-
-📌  Notes
+📌  Note
 
     - This project is a standalone desktop application and does not connect to a database.
-    - For demonstration purposes only.
+    - License -> It is part of academic work and is open for demonstration & learning purposes.
 
 
 ## 📁 Folder Structure
@@ -95,6 +93,3 @@ git clone https://github.com/yourusername/Student-Management-System-JavaFX.git
 
 3. Run Main.java.
 
-## 📄 License
-
-This project is part of academic work and is open for learning and demonstration purposes.
