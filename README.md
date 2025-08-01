@@ -3,9 +3,9 @@
 A simple JavaFX-based **Student Management System** developed using **IntelliJ**, **Scene Builder**, and **FXML** following the **MVC (Model-View-Controller)** design pattern.
 
 This application includes:
-- 🔐 A Login screen ( **username: admin / pswd: 123** )
-- 📝 A Student Registration form
-- 📊 A Summary screen displaying student data in a TableView
+- A Login screen ( **username: admin / pswd: 123** )
+- A Student Registration form
+- A Summary screen displaying student data in a TableView
   
 
 
@@ -22,7 +22,7 @@ This application includes:
 
 ## 🚀 Features
 
-### 1. Login Screen
+### 1. Login Screen 🔐
 - Username and password input fields
 - Simple hardcoded authentication (`admin` / `123`)
 - Displays alerts for incorrect or empty inputs
@@ -31,7 +31,7 @@ This application includes:
     </p>
 
 
-### 2. Student Registration Form
+### 2. Student Registration Form 📝
 - Inputs: Full Name, Email, Gender (M/F), Course
 - Buttons: Submit, Reset, View Summary, Logout
 - Stores student data temporarily as object in memory via a static (`ArrayList`) in the CollectionStu model.
@@ -40,7 +40,7 @@ This application includes:
       <img src="https://github.com/user-attachments/assets/dacbda47-3c1d-4803-9b98-8a772d24997f" width="480">
     </p>
 
-### 3. Summary Screen
+### 3. Summary Screen 📊
 - TableView displaying student data
 - Columns: Name, Email, Gender, Course
 - Buttons: Back to Registration, Logout, Reload
